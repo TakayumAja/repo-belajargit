@@ -1,0 +1,11 @@
+#label {
+    width: 100%;
+    height: auto;
+}
+
+#gambarku {
+    max-width: 300px;
+    background-color: goldenrod;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
