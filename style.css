@@ -8,12 +8,12 @@ body {
 
 }
 
-#label {
+#gambarku {
     width: 100%;
     height: auto;
 }
 
-#gambarku {
+#label {
     max-width: 300px;
     margin: 80px auto;
     background-color: goldenrod;
@@ -21,12 +21,14 @@ body {
     border-radius: 5px;
 }
 
+#text {
+    text-align: center;
+}
+
 #header {
     width: 100%;
     height: 50px;
     background-color: orange;
-    position: absolute;
-    bottom: 0;
     line-height: 50px;
     text-align: center;
     color: black;
@@ -35,6 +37,8 @@ body {
 #footer {
     width: 100%;
     height: 50px;
+    position: absolute;
+    bottom: 0;
     line-height: 50px;
     background-color: orange;
     text-align: center;
